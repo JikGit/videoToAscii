@@ -1,0 +1,6 @@
+cd ./make
+
+cmake .
+make 
+
+
