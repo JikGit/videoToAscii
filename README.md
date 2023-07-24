@@ -1,5 +1,5 @@
-to compile adn run execute:
+to compile and run execute:
 
 ```
-./build.sh && ./output
+./build.sh && ./make/output
 ```
